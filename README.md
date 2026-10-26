@@ -20,3 +20,7 @@ Run `python3 -m http.server 8000` from the repository root and open `http://loca
 - `assets/favicon.svg`: local vector icon
 
 The plugin itself is not included in this website repository.
+
+## Languages
+
+English pages remain at the repository root. Slovak pages are under `sk/`, with equivalent privacy, terms and support paths. Each page includes EN/SK links to its counterpart, a canonical URL and reciprocal hreflang metadata. Both languages share the local CSS and icon.
