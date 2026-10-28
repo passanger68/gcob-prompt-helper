@@ -27,4 +27,4 @@ English pages remain at the repository root. Slovak pages are under `sk/`, with 
 
 ## ChatGPT plugin release
 
-Version 1.0.10 published 2026-10-28. The ZIP is not hosted on GitHub Pages yet.
+Version 1.0.10 published 2026-10-28. ZIP download: https://github.com/passanger68/gcob-prompt-helper/releases/download/v1.0.10/plugin.zip
