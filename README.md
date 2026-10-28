@@ -24,3 +24,7 @@ The plugin itself is not included in this website repository.
 ## Languages
 
 English pages remain at the repository root. Slovak pages are under `sk/`, with equivalent privacy, terms and support paths. Each page includes EN/SK links to its counterpart, a canonical URL and reciprocal hreflang metadata. Both languages share the local CSS and icon.
+
+## ChatGPT plugin release
+
+Version 1.0.10 published 2026-10-28. The ZIP is not hosted on GitHub Pages yet.
